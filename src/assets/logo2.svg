@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="109" height="57" viewBox="0 0 109 57" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 23.643 48.498 C 23.643 46.096 25.552 44.227 27.73 44.494 L 93.367 52.508 C 101.703 53.527 108.757 45.825 107.856 36.686 C 106.915 27.194 97.943 21.326 89.87 24.931 L 26.114 54.368 C 23.691 55.448 23.643 51.36 23.643 48.498 Z" fill="url(#paint0_linear_2205_14)" style=""/>
+  <defs>
+    <linearGradient id="paint0_linear_2205_14" x1="219.1" y1="39.9983" x2="202.599" y2="91.4037" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.096849, 0, 0, 2.297287, -118.941658, -48.88372)">
+      <stop stop-color="#DF8908"/>
+      <stop offset="1" stop-color="#B415FF"/>
+    </linearGradient>
+  </defs>
+  <text style="fill: rgb(255, 251, 251); font-family: Arial, sans-serif; font-size: 28px; font-style: italic; font-weight: 700; text-transform: uppercase; white-space: pre; transform-box: fill-box; transform-origin: 78.7416px 15.6717px;" transform="matrix(0.55653, -0.001225, 0.003535, 1.604903, -39.602711, -2.896189)" x="8.588" y="36.518">Abdullah</text>
+</svg>
